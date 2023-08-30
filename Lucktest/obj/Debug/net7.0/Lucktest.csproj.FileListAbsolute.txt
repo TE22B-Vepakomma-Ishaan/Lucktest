@@ -1,0 +1,14 @@
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\bin\Debug\net7.0\Lucktest.exe
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\bin\Debug\net7.0\Lucktest.deps.json
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\bin\Debug\net7.0\Lucktest.runtimeconfig.json
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\bin\Debug\net7.0\Lucktest.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\bin\Debug\net7.0\Lucktest.pdb
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.AssemblyInfoInputs.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.AssemblyInfo.cs
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.csproj.CoreCompileInputs.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\refint\Lucktest.dll
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.pdb
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\Lucktest.genruntimeconfig.cache
+C:\Users\ishaan.vepakomma\Documents\Programmering_1\Lucktest\Lucktest\obj\Debug\net7.0\ref\Lucktest.dll
